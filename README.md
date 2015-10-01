@@ -6,7 +6,7 @@ add the JS file listed below. I have not included the flowplayer JS files as tha
 
 ## Installation
 
-Download folder and create zip with same name. Just upload to wordpress.
+Download as Zip and remove master from the name of file.  Just upload to wordpress.
 
 
 ## Contributing
