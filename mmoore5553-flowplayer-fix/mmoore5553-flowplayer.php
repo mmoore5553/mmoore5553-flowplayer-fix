@@ -19,7 +19,7 @@
 	$today = strtotime($currentdate);
     $expiration_date = strtotime($postdate);
 	if ($expiration_date <= $today) { ?>
-		<script type="text/javascript" src="http://www.website.com/blog/flwplayerfiles/flowplayer-3.2.6.min.js"></script> 
+		<script type="text/javascript" src="http://www.WebsiteName.com/blog/flwplayerfiles/flowplayer-3.2.6.min.js"></script> 
     <?php
 	}
  }
