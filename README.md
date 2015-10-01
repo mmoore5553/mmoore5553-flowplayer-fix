@@ -1,7 +1,7 @@
 # mmoore5553-flowplayer-fix
 
 This was one time job to get flowplayer 3.6 version to work with the newest wordpress plugin. The user had just used the javascript file with
-with the older version. So this version works with wordpress and checks the post creation date. Any date after 9-4-2015 it will automatically
+with the older version. So this version works with wordpress post loop  and checks the post creation date. Any date after 9-4-2015 it will automatically
 add the JS file listed below. I have not included the flowplayer JS files as that is a paid plugin.
 
 ## Installation
