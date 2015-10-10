@@ -2,7 +2,7 @@
 
 This was one time job to get flowplayer 3.6 version to work with the newest wordpress plugin. The user had just used the javascript file with
 with the older version. So this version works with wordpress post loop  and checks the post creation date. Any date after 9-4-2015 it will automatically
-add the JS file listed below. I have not included the flowplayer JS files as that is a paid plugin.
+add the JS file listed below. The post date and date 9-4 are converted to unix time to compare properly. I have not included the flowplayer JS files as that is a paid plugin.
 
 ## Installation
 
